@@ -4,3 +4,4 @@
 * [cas](https://github.com/apereo/cas)
 * [architect-awesome-java方面的architect](https://github.com/xingshaocheng/architect-awesome)
 * [Spring Boot 中文索引](http://springboot.fun/)
+* [Activiti实战](https://github.com/henryyan/activiti-in-action-codes)
